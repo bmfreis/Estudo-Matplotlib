@@ -1,1 +1,3 @@
 # Estudo-Matplotlib
+
+* Scatter plot
